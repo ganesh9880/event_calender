@@ -4,7 +4,7 @@ A modern, interactive event calendar application built with React and Material-U
 
 ## Live Demo
 
-[View Live Demo](https://ganesh9880.github.io/event_calender)
+[View Live Demo](https://event-calender-git-main-ganeshs-projects-12d58f2f.vercel.app/)
 
 ## Features
 
